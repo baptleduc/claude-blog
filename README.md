@@ -44,7 +44,7 @@ claude-blog is a Claude Code skill ecosystem for creating, optimizing, and manag
 /plugin marketplace add AgriciDaniel/claude-blog
 
 # Install plugin
-/plugin install claude-blog@AgriciDaniel-claude-blog
+/plugin install claude-blog@agricidaniel-blog
 ```
 
 **Recommended: clone then verify before installing** (lets you inspect
